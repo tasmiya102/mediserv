@@ -3,14 +3,14 @@ A web based application where user can obtain a diagnosis of their medical healt
 ## HomePage
 ![Home](![Screenshot (4).png](https://github.com/tasmiya102/mediserv/blob/main/Screenshot%20(4).png))
 
-##Sign in Page
+## Sign in Page
 ![Signin](![Screenshot (5).png](https://github.com/tasmiya102/mediserv/blob/main/Screenshot%20(5).png))
 
-##Sign up Page
+## Sign up Page
 ![Signup](![Screenshot (6).png](https://github.com/tasmiya102/mediserv/blob/main/Screenshot%20(6).png))
 
-##Appointment Page
+## Appointment Page
 ![Appointment](![Screenshot (7).png](https://github.com/tasmiya102/mediserv/blob/main/Screenshot%20(7).png))
 
-##Contact Page
+## Contact Page
 ![Contact](![Screenshot (8).png](https://github.com/tasmiya102/mediserv/blob/main/Screenshot%20(8).png))
